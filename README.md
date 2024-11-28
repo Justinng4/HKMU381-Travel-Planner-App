@@ -60,7 +60,8 @@
 
   ### models
 
-## cloud-based server URL: https://hkmu381-travel-planner-app.onrender.com
+## cloud-based server URL: 
+https://hkmu381-travel-planner-app.onrender.com
 ## Operation guides
 
 4. Operation guides (like a user flow) for your server
