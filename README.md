@@ -63,21 +63,19 @@
 ## Cloud-based server URL: 
 https://hkmu381-travel-planner-app.onrender.com
 ## Operation guides
-
-4. Operation guides (like a user flow) for your server
+*Operation guides (like a user flow) for your server*
 
 1. Installation guidline
 2. Open Visual Studio Code
 3. Create .env file
-4. Copy the code in env sample and modify the SESSION SECRET AND MONGODB_URL
+4. Copy the code in env sample and modify the "SESSION SECRET" and "MONGODB_URL"
 5. Makesure u install nodejs
-6. Download npm install, npm run dev
-
-terminal will display
-server is running on port 3001
+6. Download npm install, "npm run dev"
+7. Terminal will display -
+"server is running on port 3001
 Connected to MongoDB
 MongoDB Atlas Connected
-Database ping CHeck Connection successful
+Database ping CHeck Connection successful"
 
 
 After go in the web:
