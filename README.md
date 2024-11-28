@@ -66,15 +66,12 @@ https://hkmu381-travel-planner-app.onrender.com
 
 4. Operation guides (like a user flow) for your server
 
-Installation guidline
-open vs code
-create .env file
-copy the code in env sample and modify the SESSION SECRET AND MONGODB_URL
-
-makesure u install nodejs
-
-npm install
-npm run dev
+1. Installation guidline
+2. Open Visual Studio Code
+3. Create .env file
+4. Copy the code in env sample and modify the SESSION SECRET AND MONGODB_URL
+5. Makesure u install nodejs
+6. Download npm install, npm run dev
 
 terminal will display
 server is running on port 3001
