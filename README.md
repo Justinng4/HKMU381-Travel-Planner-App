@@ -60,7 +60,7 @@
 
   ### models
 
-## cloud-based server URL: 
+## Cloud-based server URL: 
 https://hkmu381-travel-planner-app.onrender.com
 ## Operation guides
 
