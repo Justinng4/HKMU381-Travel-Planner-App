@@ -180,23 +180,26 @@ CRUD:
 ## CRUD Web Page (UI/Buttons)
 
 ### Create
- **Dashboard**
- **Register New Account**
- **Add New Trip**
+ 1. **Dashboard**
+ 2. **Register New Account**
+ 3. **Add New Trip**
 
 ### Read
- **Enter Destination**
- **Start Date**
- **End Date**
- **Description**
- **Create Trip**
+1. **Enter Destination**
+2. **Start Date**
+3. **End Date**
+4. **Description**
+5. **Create Trip**
 
 ### Update
  **Update Profile**
+ 1. Update Name
+ 2. Update Email
+ 3. Update Password
 
 ### Delete
- **Delete Account**
- **Delete Trip**
+1. **Delete Account**
+2. **Delete Trip**
 
 ### Registration Part
 1. Users visit the **Registration Page** to create their own account.
