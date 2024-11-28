@@ -64,7 +64,6 @@
 
 This project provides a RESTful API for managing `User` resources using **Express.js** and **MongoDB**. It supports basic CRUD operations and uses **Mongoose** for database interactions.
 
----
 ## **Description**
 
 This API allows you to:
@@ -76,8 +75,6 @@ This API allows you to:
 5. **Delete a user**: Remove a user from the database by their ID.
 
 The API also includes middleware (`getUser`) to fetch and validate a user for PATCH and DELETE operations.
-
----
 
 ## **Features**
 
@@ -180,21 +177,40 @@ register
 login
 
 CRUD:
-Dashboard
-add new trip
-enter destination
-start date
-end date
-desciption
-create trip
+## CRUD Web Page (UI/Buttons)
 
-provide function
-edit
-delete
-add new trip
+### Create
+ **Dashboard**
+ **Register New Account**
+ **Add New Trip**
 
+### Read
+ **Enter Destination**
+ **Start Date**
+ **End Date**
+ **Description**
+ **Create Trip**
 
-- the use of Login/Logout pages: a list of valid login information, sign in steps? …
+### Update
+ **Update Profile**
+
+### Delete
+ **Delete Account**
+ **Delete Trip**
+
+### Registration Part
+1. Users visit the **Registration Page** to create their own account.
+2. After successfully registering, users are redirected to the **Login Page**.
+
+### Login Part
+1. On the **Login Page**, users enter their credentials (username/email and password) to log in.
+
+### Profile Page
+1. Once logged in, users can navigate to the **Profile Page**.
+2. On the Profile Page, users have the following options:
+    **Update Profile:** Modify their profile information.
+    **Logout:** Log out of their account.
+   
 - the use of your CRUD web pages: which button or UI is used to implement create, read, update, and delete?
 - the use your RESTful CRUD services: the lists of APIs? HTTP request types? Path URI? How to test them?
 CURL testing commands?
